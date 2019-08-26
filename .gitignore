@@ -1,3 +1,4 @@
 log/
 venv/
 atari_py-1.2.1-cp37-cp37m-win_amd64.whl
+.idea/
